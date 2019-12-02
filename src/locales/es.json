@@ -1,0 +1,9 @@
+{
+    
+    "Name": "Nombre",
+    "Country":"Pais",
+     "Director":"Dirigido por",
+     "Budget":"Presupuesto",
+     "Views":"Vistas",                     
+    "Release":"Fecha de estreno"
+}
